@@ -1,16 +1,18 @@
 baseURL: 'https://example.org/'
 languageCode: en-us
-title: Demo ME23
+title: Demo ME23 - Medieproduktion
 theme: papermod
 
 
 params:
   homeInfoParams:
-    Title: 'Hello Stranger'
-    Content: 'Welcome to my portfolio'
+    Title: 'Hej på er!'
+    Content: 'Detta är ett test för Me23 Medieproduktion'
   socialIcons: 
     - name: facebook
       url: "https://facebook.com"
+    - name: twitter
+      url: "https://twitter.com"
   cover:
     linkFullImages: true
 
